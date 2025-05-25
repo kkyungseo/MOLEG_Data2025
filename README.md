@@ -19,6 +19,6 @@
 ## 💬 문의 및 기여
 - 작성자:
   [김경서](https://github.com/kkyungseo),
-  [김경훈](clipset@scourt.go.kr),
+  [김경훈](mailto:clipset@scourt.go.kr),
   [최영환](https://github.com/cyh5757)  
 - 기여 및 문의: 해당 Repository의 자유로운 Issue 작성 가능
